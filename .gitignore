@@ -1,0 +1,36 @@
+# Sensitive files
+*.env
+*.key
+*.pem
+*.secret
+credentials.*
+secrets.*
+
+# LaTeX compilation files
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Large files
+*.pcap
+*.pcapng
+*.mp4
+*.ova
+*.vdi
